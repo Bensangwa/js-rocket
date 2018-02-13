@@ -185,7 +185,7 @@ header {
 
 .location {
     background-color:#212020b4;
-    background-image: url('../pics/maps.png');
+    background-image: url('maps.png');
     background-size: cover;
     height: 586px;
 }
