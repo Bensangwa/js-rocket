@@ -4,10 +4,10 @@ $(document).ready(function(){
         $(".call-to-action").slideToggle();
     });
 
-    $(".call-button").on("click", function(e){
-        e.preventDefault();
-        $(".column img").toggleClass("bigger");
-    });
+    //$(".call-button").on("click", function(e){
+    //    e.preventDefault();
+    //    $(".column img").toggleClass("bigger");
+   // });
 
     
 
